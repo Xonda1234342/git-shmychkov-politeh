@@ -1,0 +1,131 @@
+.Zadanie1 .pink 
+{
+    color:pink;
+}
+.Zadanie1 .grey
+{
+    color:grey;
+}
+.Zadanie1 .red
+{
+    color:red;
+}
+.Zadanie1 .green
+{
+    color:green;
+}
+.Zadanie1 .yellow
+{
+    color:yellow;
+}
+.Zadanie2 .arialblack
+{
+ font-family:'Arial Black';
+ font-size: 20px; 
+}
+.Zadanie2 .couriernew
+{
+ font-family:'Courier New';
+ font-size: 24px;
+ text-align: justify; 
+}
+.Zadanie2 .verdana
+{
+ font-family:Verdana;
+ font-size: 10px; 
+}
+.Zadanie2 .georgia
+{
+ font-family:'Courier New';
+ font-size: 2.5em;
+ text-align: center; 
+}
+.Zadanie2 .comicsans
+{
+ font-family:'Comic Sans';
+ font-size: 1.3em;
+}
+.Zadanie3 .timenew
+{
+ font-family:'Times New Roman';
+ text-align: left;
+ text-indent: 30px;
+}
+.Zadanie4 .arial
+{
+ font-family:'Arial';
+ text-align: center;
+ font-style: italic;
+}
+.Zadanie5 .verdana
+{
+ font-family: Verdana;
+ text-align:justify;
+ text-indent: 30px;
+}
+.Zadanie6 .timenew
+{
+ font-family:'Times New Roman';
+ text-align: right;
+}
+.Zadanie7 .timenew
+{
+ font-family:'Times New Roman';
+ font-style: italic;
+ font-weight: bold;
+}
+TABLE {
+    border-collapse: collapse;
+   }
+TD{
+    padding: 3px;
+    border: 1px solid black;
+   }
+.Zadanie9 .pic1
+{
+    list-style-image: url("Picture/овен.png");
+}
+.Zadanie9 .pic2
+{
+    list-style-image: url("Picture/телец.png");
+}
+.Zadanie9 .pic3
+{
+    list-style-image: url("Picture/Близнецы.png");
+}
+.Zadanie9 .pic4
+{
+    list-style-image: url("Picture/Рак.png");
+}
+.Zadanie9 .pic5
+{
+    list-style-image: url("Picture/лев.png");
+}
+.Zadanie9 .pic6
+{
+    list-style-image: url("Picture/дева.png");
+}
+.Zadanie9 .pic7
+{
+    list-style-image: url("Picture/весы.png");
+}
+.Zadanie9 .pic8
+{
+    list-style-image: url("Picture/скорпион.png");
+}
+.Zadanie9 .pic9
+{
+    list-style-image: url("Picture/стрелец.png");
+}
+.Zadanie9 .pic10
+{
+    list-style-image: url("Picture/козерог.png");
+}
+.Zadanie9 .pic11
+{
+    list-style-image: url("Picture/водолей.png");
+}
+.Zadanie9 .pic12
+{
+    list-style-image: url("Picture/рыбы.png");
+}
